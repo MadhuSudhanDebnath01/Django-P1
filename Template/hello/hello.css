@@ -1,0 +1,7 @@
+.main_container{
+    border: 3px solid rgb(10, 10, 68);
+    background-color:chartreuse;
+    align-items: center;
+    justify-content: center;
+    color: blue;
+}
